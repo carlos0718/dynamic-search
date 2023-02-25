@@ -1,2 +1,2 @@
 # dynamic-search
-inpu dynamic search in JS
+input dynamic search in JS
